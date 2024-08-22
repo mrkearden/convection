@@ -1,0 +1,26 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = solid
+End
+
+Body 2
+  Name = fluid
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = solidtop
+End
+
+Boundary Condition 2
+  Name = fluidtop
+End
+
+Boundary Condition 3
+  Name = bottom
+End
+
+Boundary Condition 4
+  Name = bnry6
+End
+

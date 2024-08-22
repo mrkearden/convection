@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ solid = 1
+$ fluid = 2
+! ----- names for boundaries -----
+$ solidtop = 1
+$ fluidtop = 2
+$ bottom = 3
+$ bnry6 = 4
